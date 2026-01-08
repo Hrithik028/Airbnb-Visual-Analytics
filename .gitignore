@@ -1,10 +1,23 @@
 .venv/
+# Python
 __pycache__/
-.ipynb_checkpoints/
 *.pyc
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
 .DS_Store
+Thumbs.db
+
+# Raw data (DO NOT COMMIT)
 data/raw/*
 !data/raw/.gitkeep
-data/processed/*
-results/figures/*
-!results/figures/.gitkeep
+
+# Allow generated figures (DO COMMIT)
+!results/
+!results/figures/
+!results/figures/*.png
+
