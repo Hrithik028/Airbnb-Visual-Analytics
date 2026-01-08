@@ -109,21 +109,46 @@ jupyter notebook notebooks/analysis.ipynb
 ## Key Results & Insights
 
 ### Figure 01 — Price Distribution by Room Type
+![Figure 01 — Price Distribution by Room Type](results/figures/Fig01_price_by_room_type.png)
+
 Private rooms exhibit lower and more concentrated price distributions, while entire homes show higher variance and higher median prices.
 
+---
+
 ### Figure 03 — Review Activity by Day of Week
+![Figure 03 — Review Activity by Day of Week](results/figures/Fig03_reviews_by_day_of_week.png)
+
 Review activity peaks on weekends, suggesting higher guest turnover and engagement during leisure travel periods.
 
+---
+
 ### Figure 06 — Ratings vs Review Volume
+![Figure 06 — Ratings vs Review Volume](results/figures/Fig06_ratings_vs_reviews_bubble.png)
+
 Listings with high responsiveness cluster at higher ratings, though rating alone shows only a weak relationship with review volume.
 
+---
+
 ### Figure 08 — Price by Amenity and Host Segment
+![Figure 08 — Price by Amenity and Host Segment](results/figures/Fig08_price_by_amenity_and_host_segment.png)
+
 Enterprise-scale hosts consistently command higher prices for amenity-rich listings, indicating scale and professionalisation effects.
 
+---
+
 ### Figure 09 — Listing Density
+![Figure 09 — Listing Density](results/figures/Fig09_listing_density_points.png)
+
 Listings are spatially concentrated in coastal and inner-city neighbourhoods, reflecting demand-driven clustering.
 
+---
+
 ### Figure 10 — Average Price by Neighbourhood
+![Figure 10 — Average Price by Neighbourhood](results/figures/Fig10_avg_price_choropleth.png)
+
 Clear spatial price gradients emerge across Sydney, with premium coastal and inner suburbs commanding higher nightly rates.
+
+The following figures summarise the key pricing, demand, and spatial insights derived from the Sydney Airbnb dataset.
+
 
 
