@@ -53,7 +53,7 @@ All figures are saved automatically to `results/figures/`.
 
 ---
 
-'''
+```bash
 ## Repository structure
 ├── notebooks/
 │ └── analysis.ipynb # Original exploratory analysis (kept for transparency)
@@ -67,7 +67,7 @@ All figures are saved automatically to `results/figures/`.
 │ └── project_summary.md # Short written summary of findings
 ├── requirements.txt
 └── README.md
-'''
+```
 
 ---
 
